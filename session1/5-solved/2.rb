@@ -152,3 +152,13 @@ def arithmetic2(a, b)
 		b/2.to_f
 	end
 end
+
+# Vanessa Virgitti
+def arithmetic2(a, b)
+	smallest = a < b
+		if smallest == true
+		return a / 2.to_f
+		else
+		return b / 2.to_f
+		end
+end

@@ -141,3 +141,10 @@ end
 def ten_twenty(n)
   10 : 20 if n.even?
 end
+
+# Vanessa Virgitti
+if (n % 2) > 0
+	return 20
+	else
+	return 10
+	end
