@@ -92,3 +92,7 @@ def arithmetic1(n)
   n*5-20
 end
 
+#Vanessa Virgitti
+def arithmetic1(n)
+( n * 5) - 20
+end
